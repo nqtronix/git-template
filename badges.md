@@ -2,7 +2,7 @@
 
 No matter what I tell you below, pick the badges that are **most meaningful to your project**. If you need badges for other services or custom ones get them from [shields.io][shields.io].
 
-**Version**
+#### Version
 
 <a href="#changelog"><img src="https://img.shields.io/github/release-pre/nqtronix/git-template.svg" alt="release: NA"></a>
 <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg" alt="npm"></a>
@@ -19,7 +19,7 @@ Software typically only works with a specific operating system or device. Theref
 
 <br>
 
-**Quality Assurance**
+#### Quality Assurance
 
 <a href="https://travis-ci.org/freeCodeCamp/freeCodeCamp"><img src="https://travis-ci.org/freeCodeCamp/freeCodeCamp.svg?branch=staging" alt="travis-ci.org"></a>
 <a href="https://circleci.com"><img src="https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token" alt="cirleci.com"></a>
@@ -38,7 +38,7 @@ Automatic testing is the best way to prove that your code works as intended. If 
 
 <br>
 
-**Project Status**
+#### Project Status
 
 <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#Project%20Status"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="status: active"></a>
 <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#Project%20Status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a>
@@ -72,7 +72,7 @@ _--- description message here ---_
 
 <br>
 
-**Project Activity**
+#### Project Activity
 
 <a href="https://github.com/nqtronix/git-template/commits/master"><img src="https://img.shields.io/github/last-commit/nqtronix/git-template.svg" alt="last commit">
 <a href="https://github.com/anfederico/Clairvoyant/issues"><img src="https://img.shields.io/github/issues/anfederico/Clairvoyant.svg" alt="open issues">
@@ -85,7 +85,7 @@ No project is perfect, ever. Therefore it's quite important to know that questio
 
 <br>
 
-**Support & Community**
+#### Support & Community
 
 <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="RRs: welcome"></a>
 <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="chat: on discord"></a>
@@ -98,7 +98,7 @@ Getting help and contributing is a fundamental part of open source. You can emph
 
 <br>
 
-**Licensing**
+#### Licensing
 
 <a href="https://github.com/github/gitignore/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/github/gitignore.svg"></a>
 <a href="https://github.com/rg3/youtube-dl/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/rg3/youtube-dl.svg"></a>
@@ -118,7 +118,7 @@ These badges are dynamically generated based on githubs data, their color indica
 
 <br>
 
-**Other**
+#### Other
 
 <a href=""><img src="https://img.shields.io/badge/%20%20-best-brightgreen.svg" alt=""></a>
 <a href=""><img src="https://img.shields.io/badge/%20%20-good-green.svg" alt=""></a>

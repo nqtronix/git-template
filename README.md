@@ -98,7 +98,7 @@ Not even your readme. Especially not if you treat it like many people and just d
    All your creative efforts have a reason. [Start by telling _why_][video-start-with-why] your project exists and _why_ anyone should have interest in it. As humans we crave meaning and purpose more than anything else. Be short and precise. 
 
 2. **First Things First**<br>
-   Outline the the scope of your project. Even if visitors are inspired by your _why_, it dosen't matter if it does not fit their requirements, no matter how great your code is. And that is ok. [Badges](#badges) are a perfect tool to visualize what your project is and what it isn't. 
+   Outline the the scope of your project. Even if visitors are inspired by your _why_, it dosen't matter if it does not fit their requirements, no matter how great your code is. And that is ok. [Badges](#--badges) are a perfect tool to visualize what your project is and what it isn't. 
 
 3. **No Clutter**<br>
    Get rid of everything else. No worries, you can bring it up later, but for for now it's just distraction. When in doubt, be generous with white space. Less is More.
@@ -190,7 +190,7 @@ Write a _single line_ to summarize the essence of the project. It doesn't even h
 <br>
 
 ### - Badges
-Metadata is best added in form of **badges** right below the summary. They help viewers to decide whether your project meets their requirements. The information is picked up intuitively: <img src="https://img.shields.io/badge/category-value-blue.svg" alt="category: value">
+Metadata is best added in form of **badges** right below the summary. They help viewers to decide whether your project meets their requirements. The information is picked up intuitively: <a href="#--badgers"><img src="https://img.shields.io/badge/category-value-blue.svg" alt="category: value"></a>
 
 The left side classifies the category, the right side the value. The background color can be customised to illustrate the value. Often they are click-able and take you to a page with more detailed information. There are even a few dynamic badges based on data from the GitHub API or external tools.
 
@@ -318,7 +318,7 @@ There is no CONTRIBUTING.md yet, sorry. Contributions will inherit the [license]
 
 ## About
 ### Status
-**This project is currently classified as** <img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"><br>
+**This project is currently classified as** <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a><br>
 _The developers intend to keep the code in working condition by updating dependencies, fixing bugs and solving issues._
 
 Without a doubt the readme is an important part of open source projects. I wanted to get it _right_ with everything I publish. This template is the result of my research. I do not consider it perfect, but "good enough" for most repositories. Major changes are not planned.
