@@ -277,7 +277,7 @@ The most popular license is the [MIT License][license-mit]. It is permissive and
 
 You might be tempted to give up all your rights and put your project int "public domain", but this simply does not work in some countries.  [This answer on opensource.stackexchange.com][license-mit-vs-cc0] explains some issues quite well. If you still want to do that, the [CC0 1.0 License][license-cc0] might be the best option. It's advantage above other "public domain" licenses is it's fallback clause [to function as a license][license-cc0-fallback].
 
-**That said, I am not a lawyer and not responsible for license you choose.**
+**That said, I am not a lawyer and will not take responsibility for any choice you make.**
 
 <br>
 
