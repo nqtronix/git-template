@@ -1,16 +1,5 @@
-<!-- banner: can be a image, ascii art or a large font-->
-<!--<pre style=text-align: center; font-family: Courier New, monospace; LINE-HEIGHT: 14px; font-weight: 900;">-->
-<pre align="center">
-        _ _         _                       _       _       
-       (_) |       | |                     | |     | |      
-   __ _ _| |_  ___ | |_ ___ _ __ ___  _ __ | | __ _| |_ ___ 
-  / _` | | __||___|| __/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \
- | (_| | | |_      | ||  __/ | | | | | |_) | | (_| | ||  __/
-  \__, |_|\__|      \__\___|_| |_| |_| .__/|_|\__,_|\__\___|
-   __/ |                             | |                    
-  |___/                              |_|                    
-  
-</pre>
+<!-- banner: can be a image or a large font-->
+<h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">git-template</h4>
 
 <!-- blurb: shortest possible summary (one line max) -->
 <h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">A simple and clean git repository template.</h4>
@@ -193,7 +182,7 @@ README.md
 <!-- the colon (:) behind each entry below is to distinguish it in local links: [link](#key-features) is different form [link](#key-features:) -->
 
 ### Banner:
-Start the readme with the name of your project in a large font. Alternatively you can create a banner or a logo to stand out. If you feel like it, you can even use some ASCII art.
+Start the readme with the name of your project in a large font. Alternatively you can create a banner or a logo to stand out. ~~If you feel like it, you can even use some ASCII art.~~ Although you can use ASCII art, github can't be conviced to center it.
 
 ### Summary:
 Write a _single line_ to summarize the essence of the project. It doesn't even have to be a full sentence. Expressing clearly what your goal is can be insanely hard, but is a crucial part of the introduction. If you can't tell what this is all about, who else will be?
