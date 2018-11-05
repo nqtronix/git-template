@@ -1,6 +1,6 @@
 <!-- banner: can be a image, ascii art or a large font-->
-<br>
-<pre style="text-align: center; font-family: Courier New, monospace; LINE-HEIGHT: 14px; font-weight: 900;">
+<!--<pre style=text-align: center; font-family: Courier New, monospace; LINE-HEIGHT: 14px; font-weight: 900;">-->
+<pre align="center">
         _ _         _                       _       _       
        (_) |       | |                     | |     | |      
    __ _ _| |_  ___ | |_ ___ _ __ ___  _ __ | | __ _| |_ ___ 
@@ -13,11 +13,11 @@
 </pre>
 
 <!-- blurb: shortest possible summary (one line max) -->
-<h4 style="text-align: center; font-weight: bold; margin-top: 20px; margin-bottom: 20px;">A simple and clean git repository template.</h4>
+<h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">A simple and clean git repository template.</h4>
 
 
 <!-- badges: meaningful meta information (one line max), do NOT include anything immediately visible -->
-<p style="text-align: center;">
+<p align="center">
 	<a href="#changelog"><img src="https://img.shields.io/github/release-pre/nqtronix/git-template.svg" alt="release: NA"></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/platform-github.com-blue.svg" alt="platform: github.com"></a>
 	<a href="#status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a>
@@ -27,7 +27,7 @@
 
 <!-- quick links: local links (one line max) -->
 <!-- Link to the (most important) h2 chapters, but do NOT link to anything visible without scrolling -->
-<p style="text-align: center;">
+<p align="center">
   <a href="#getting-started">Getting Started</a> •
   <a href="#documentation">Documentation</a> •
   <a href="#under-the-hood">Under the Hood</a> •
@@ -201,7 +201,7 @@ Write a _single line_ to summarize the essence of the project. It doesn't even h
 <br>
 
 ### Badges:
-Metadata is best added in form of **badges** right below the summary. They help viewers to decide whether your project meets their requirements. The information can be picked up intuitively, since they are always structured in the same way: <img src="https://img.shields.io/badge/category-value-blue.svg" alt="category: value">
+Metadata is best added in form of **badges** right below the summary. They help viewers to decide whether your project meets their requirements. The information is picked up intuitively: <img src="https://img.shields.io/badge/category-value-blue.svg" alt="category: value">
 
 The left side classifies the category, the right side the value. The background color can be customised to illustrate the value. Often they are click-able and take you to a page with more detailed information. There are even a few dynamic badges based on data from the GitHub API or external tools.
 
