@@ -116,7 +116,7 @@ Additionally you can provide **visual clues** with a good formatting:
 
   - meaningful images
   - bullet lists
-  - variation in typeface ([link](link), **bold**, _etc_)
+  - variation in typeface ([link][git-readme], **bold**, _etc_)
   - code snippets
   - quotes
   - white space
@@ -181,15 +181,15 @@ README.md
 
 <!-- the colon (:) behind each entry below is to distinguish it in local links: [link](#key-features) is different form [link](#key-features:) -->
 
-### Banner:
+### - Banner
 Start the readme with the name of your project in a large font. Alternatively you can create a banner or a logo to stand out. ~~If you feel like it, you can even use some ASCII art.~~ Although you can use ASCII art, github can't be conviced to center it.
 
-### Summary:
+### - Summary
 Write a _single line_ to summarize the essence of the project. It doesn't even have to be a full sentence. Expressing clearly what your goal is can be insanely hard, but is a crucial part of the introduction. If you can't tell what this is all about, who else will be?
 
 <br>
 
-### Badges:
+### - Badges
 Metadata is best added in form of **badges** right below the summary. They help viewers to decide whether your project meets their requirements. The information is picked up intuitively: <img src="https://img.shields.io/badge/category-value-blue.svg" alt="category: value">
 
 The left side classifies the category, the right side the value. The background color can be customised to illustrate the value. Often they are click-able and take you to a page with more detailed information. There are even a few dynamic badges based on data from the GitHub API or external tools.
@@ -203,14 +203,14 @@ For more details about which badges you should consider, check out the included 
 
 <br>
 
-### Quick Links:
+### - Quick Links
 Many readmes have a table of contents (TOC), which adds a lot of bloat to the beginning of the readme. Most of the links won't be used anyway. So instead I suggest to add **a single line of quick links**, inspired by [markdownify][prog-markdownify]'s readme.
 
 Each link refers to a main chapter of the readme. The first chapters "_Introduction_", "_Key Features_" and "_Getting Started_" are visible without scrolling and don't need a link. Note that the keywords don't have to match up with the chapters title. For example I prefer "_Need Help?_" instead of "_Support_" as it seems more friendly to me.
 
 <br>
 
-### Introduction:
+### - Introduction
 The introduction should be short and to the point as described in [documentation](#documentation).
 
 Generally I'd suggest to split the introduction into **two short paragraphs**:
@@ -222,53 +222,53 @@ The second paragraph should ideally start with the projects name in bold, follow
 
 <br>
 
-### Key Features:
+### - Key Features
 Make a bullet list of your projects best features. This is more about what aspects _you_ value, than all the great things it can do. You probably already know what you what to put there anyway.
 
 <br>
 
-### Usage Example:
+### - Usage Example
 A picture, screenshot or a few lines of code say more than a thousand words. Choose a common use case and demonstrate how _intuitive and straightforward_ your project handles that situation. Link to more complex examples if you want to.
 
 <br>
 
-### Getting Started:
+### - Getting Started
 Assume your viewer has a general understanding of programming, but does not know your tools or workflow well. The very first experience should work out-of-the-box, so give detailed starting instructions. Breaking it down into manageable steps can be very helpful for this. Link to all the software that has to be installed. **Make starting as trivial as you can.**
 
 The "Getting Started" section in this readme seems ridiculous, I know, and I've definitely overdone it a bit (every programmer can edit a text file, I hope). However I think it illustrates my point quite nicely.
 
 <br>
 
-### Documentation:
+### - Documentation
 Quite often you hear documentation belongs in a separate document and that is definitely true for large project. But for the smaller projects I don't consider it required.
 
 Your documentation should tell the reader _how to use_ the software and _not how it works_. Write about what each function does, what their arguments are, what it returns. That sort of thing. **When in doubt, give examples.**
 
 <br>
 
-### Under the Hood:
+### - Under the Hood
 You've done something clever and are eager to talk about it? Now you can! write about the internals of your project to your hearts content. Everyone who got this far actually cares about the details, so most of the viewers _care_ about what you have to say. Talk about how it all came to be, what problems you've face, what didn't work or teach a few cool tricks. But if you don't want to, that's fine too.
 
 <br>
 
-### Support:
+### - Support
 Provide help for the most common issues and error messages; a [FAQ](#faq) can be particularly useful. Offer some way of asking all questions that are not answered yet. You can use the build-in issue tracker or an external tool for this.
 
 Although many GitHub users will know how to contribute to a project, be friendly to the new users and point them to your [CONTRIBUTING.md][git-contribute] for additional information.
 
 <br>
 
-### About:
+### - About
 The about section contains any meta information about the project. Explain the current status, list major known issues, planned features, give a short changelog (but that can be a separate file, too) and offer some way of contacting you.
 
 <br>
 
-### Credits:
+### C- redits and References
 **Say "Thanks"** to all the people, whose work somehow helped you and include a link, if applicable. You should do this even if you're not obligated by any license. A little appreciation can go a long way (and make someones day).
 
 <br>
 
-### License:
+### - License
 Every project **needs** a license. If you don't, now one is allowed to do anything with your code. Considering you put all this effort into publishing it, I dont think that's what you want. **If you are unsure what license is best for you, visit [choosealicense.com][choosealicense.com]**.
 
 <br>
@@ -441,6 +441,7 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 
 [git-download]:https://github.com/nqtronix/git-template/archive/master.zip
 [git-issues]:https://github.com/nqtronix/git-template/issues
+[git-readme]:https://github.com/nqtronix/git-template/blob/master/README.md
 [git-license]:https://github.com/nqtronix/git-template/blob/master/LICENSE.md
 [git-contribute]:https://github.com/nqtronix/git-template/blob/master/CONTRIBUTING.md
 [git-badges]:https://github.com/nqtronix/git-template/blob/master/badges.md
