@@ -357,19 +357,19 @@ If you haven't done so already, please check out [Get Help](#get-help) for the f
 
 ### Projects Used
 - **[Awesome Readme][readme-matiassingers]** - _A curated list of awesome READMEs_<br>
-   Thanks @matiassingers for all the examples, hints and inspiration! This template would be quite different without you.
+   Thanks [@matiassingers][at-matiassingers] for all the examples, hints and inspiration! This template would be quite different without you.
    
 - [**Structured README**][readme-shaloo]<br>
-  Unfortunatly I found this little gem just after this readme was completed, but we share many common ideas. Thanks @shaloo!
+  Unfortunatly I found this little gem just after this readme was completed, but we share many common ideas. Thanks [@shaloo][at-shaloo]!
 
 - **[markdownify][prog-markdownify]** - _A minimal markdown editor desktop app_<br>
-   A intuitive and responsive editor with all the features you could wish for. It even fetches badges from the internet and displays them! It may sound odd, but it has been quite fun to write this readme. Thanks @amitmerchant1990 for that great tool!
+   A intuitive and responsive editor with all the features you could wish for. It even fetches badges from the internet and displays them! It may sound odd, but it has been quite fun to write this readme. Thanks [@amitmerchant1990][at-amitmerchant1990] for that great tool!
 
 - **[shields.io][shields.io]** - _badges as a service_ <br>
-   A very clever solution to deliver custom and scalable badges. Thanks to the whole @badges team!
+   A very clever solution to deliver custom and scalable badges. Thanks to the whole [@badges][at-badges] team!
 
 - **[Text ASCII Art Generator][prog-ascii-art]**<br>
-   Get any in a variety of ASCII Art fonts. It's very simple and intuitive to use. Thanks @patorjk!
+   Get any in a variety of ASCII Art fonts. It's very simple and intuitive to use. Thanks [@patorjk][at-patorjk]!
 
 <br>
 
@@ -398,18 +398,18 @@ All works referenced throughout this readme are listed below for your convenienc
 
 #### Thoughs about the Readme
 
-- [**Readme Driven Development**][article-rdd] by Tom Preston-Werner, founder of GitHub (@mojombo)
-- [**Sample Readme**][readme-fvcproductions] by @fvcproductions
-- [**Open Source Project Template**][readme-fcpb] by @cfpb
-- [**Art of README**][readme-noffle] by @noffle
-- [**Standard Readme**][readme-richardlitt] by @richardlitt
-- [**Zalando's README Template**][readme-zalando] by @ zalando
+- [**Readme Driven Development**][article-rdd] by Tom Preston-Werner, founder of GitHub ([@mojombo][at-mojombo])
+- [**Sample Readme**][readme-fvcproductions] by [@fvcproductions][at-fvcproductions]
+- [**Open Source Project Template**][readme-fcpb] by [@cfpb][at-cfpb]
+- [**Art of README**][readme-noffle] by [@noffle][at-noffle]
+- [**Standard Readme**][readme-richardlitt] by [@richardlitt][at-richardlitt]
+- [**Zalando's README Template**][readme-zalando] by [@zalando][at-zalando]
 
 
 #### Formatting
 
 - [**Basic writing and formatting syntax**][markdown-git] on GitHub
-- [**Markdown Cheatsheet**][markdown-cheatsheet] by @adam-p
+- [**Markdown Cheatsheet**][markdown-cheatsheet] by [@adam-p][at-adam-p]
 
 #### Licensing
 
@@ -418,7 +418,7 @@ All works referenced throughout this readme are listed below for your convenienc
  - [**License CC0**][license-cc0]
  - [**License CC0 - fallback clause**][license-cc0-fallback]
  - [**How can I place software in the public domain?**][license-mit-vs-cc0] on opensource.stackexchange.com
- - [**Open Source (Almost) Everything**][article-open-source-everything] by Tom Preston-Werner (@mojombo)
+ - [**Open Source (Almost) Everything**][article-open-source-everything] by Tom Preston-Werner ([@mojombo][at-mojombo])
 
 <br> 
 
@@ -436,6 +436,21 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 [hackaday.io]:https://hackaday.io
 [semver.org]:https://semver.org/
 
+
+<!-- in-line references to people -->
+
+[at-adam-p]:https://github.com/adam-p
+[at-amitmerchant1990]:https://github.com/amitmerchant1990
+[at-badges]:https://github.com/badges
+[at-cfpb]:https://github.com/cfpb
+[at-fvcproductions]:https://github.com/fvcproductions
+[at-matiassingers]:https://github.com/matiassingers
+[at-mojombo]:https://github.com/mojombo
+[at-noffle]:https://github.com/noffle
+[at-patorjk]:https://github.com/patorjk
+[at-richardlitt]:https://github.com/richardlitt
+[at-shaloo]:https://github.com/shaloo
+[at-zalando]:https://github.com/zalando
 
 <!-- in-line references to github -->
 
