@@ -263,7 +263,7 @@ The about section contains any meta information about the project. Explain the c
 
 <br>
 
-### C- redits and References
+### - Credits and References
 **Say "Thanks"** to all the people, whose work somehow helped you and include a link, if applicable. You should do this even if you're not obligated by any license. A little appreciation can go a long way (and make someones day).
 
 <br>
