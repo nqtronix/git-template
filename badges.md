@@ -40,13 +40,13 @@ Automatic testing is the best way to prove that your code works as intended. If 
 
 #### Project Status
 
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="status: active"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-shelved-yellowgreen.svg" alt="status: shelved"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-legacy-yellow.svg" alt="status: legacy"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-deprecated-orange.svg" alt="status: deprecated"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-scrapped-red.svg" alt="status: scrapped"></a>
-<a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-research-violet.svg" alt="status: research"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="status: active"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-shelved-yellowgreen.svg" alt="status: shelved"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-legacy-yellow.svg" alt="status: legacy"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-deprecated-orange.svg" alt="status: deprecated"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-scrapped-red.svg" alt="status: scrapped"></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-research-violet.svg" alt="status: research"></a>
 
 Small projects with only a few contributors might not be updated for a long time, even if they are still in use. For those project consider adding a **status badge**. They are inspired by [hackaday.io]'s "project status" feature and illustrate the main authors' intention toward the project.
 
@@ -66,7 +66,7 @@ value      | description
 
 Provide context by linking the status badge to this readme or copy the following text into yours:
 
-**This project is currently classified as** <a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-value-lightgrey.svg" alt="status: value"></a><br>
+**This project is currently classified as** <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-value-lightgrey.svg" alt="status: value"></a><br>
 _--- description message here ---_
 
 
@@ -120,14 +120,14 @@ These badges are dynamically generated based on githubs data, their color indica
 
 #### Other
 
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-best-brightgreen.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-good-green.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-ok-yellowgreen.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-meh-yellow.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-bad-orange.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-worst-red.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-other-blue.svg" alt=""></a>
-<a href="README.md"><img src="https://img.shields.io/badge/%20%20-unknown-lightgrey.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-best-brightgreen.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-good-green.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-ok-yellowgreen.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-meh-yellow.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-bad-orange.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-worst-red.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-other-blue.svg" alt=""></a>
+<a href="https://github.com/nqtronix/git-template/blob/master/README.md"><img src="https://img.shields.io/badge/%20%20-unknown-lightgrey.svg" alt=""></a>
 
 Badges in general follow the color scheme above. If you create new badges, try to align them with this or use other colors.
 
@@ -138,8 +138,8 @@ Badges in general follow the color scheme above. If you create new badges, try t
 [hackaday.io]:https://hackaday.io
 
 [git-top200]:https://github.com/search?l=&p=1&q=stars%3A%3E500&ref=advsearch&type=Repositories&utf8=%E2%9C%93
-[git-license]:LICENSE.md
-[git-readme-license]:README.md#license
+[git-license]:https://github.com/nqtronix/git-template/blob/master/LICENSE.md
+[git-readme-license]:https://github.com/nqtronix/git-template/blob/master/README.md#license
 
 
 
