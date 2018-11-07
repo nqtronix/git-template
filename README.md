@@ -318,7 +318,7 @@ There is no CONTRIBUTING.md yet, sorry. Contributions will inherit the [license]
 
 ## About
 ### Status
-**This project is currently classified as** <a href="badges.md#project-status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a><br>
+**This project is currently classified as** <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-maintained-green.svg" alt="status: maintained"></a><br>
 _The developers intend to keep the code in working condition by updating dependencies, fixing bugs and solving issues._
 
 Without a doubt the readme is an important part of open source projects. I wanted to get it _right_ with everything I publish. This template is the result of my research. I do not consider it perfect, but "good enough" for most repositories. Major changes are not planned.
@@ -456,10 +456,10 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 
 [git-download]:https://github.com/nqtronix/git-template/archive/master.zip
 [git-issues]:https://github.com/nqtronix/git-template/issues
-[git-readme]:README.md
-[git-license]:LICENSE.md
-[git-contribute]:CONTRIBUTING.md
-[git-badges]:badges.md
+[git-readme]:https://github.com/nqtronix/git-template/blob/master/README.md
+[git-license]:https://github.com/nqtronix/git-template/blob/master/LICENSE.md
+[git-contribute]:https://github.com/nqtronix/git-template/blob/master/CONTRIBUTING.md
+[git-badges]:https://github.com/nqtronix/git-template/blob/master/badges.md
 [git-profile]:https://github.com/nqtronix
 
 <!-- in-line references by tag -->
