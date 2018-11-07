@@ -138,8 +138,8 @@ Badges in general follow the color scheme above. If you create new badges, try t
 [hackaday.io]:https://hackaday.io
 
 [git-top200]:https://github.com/search?l=&p=1&q=stars%3A%3E500&ref=advsearch&type=Repositories&utf8=%E2%9C%93
-[git-license]:https://github.com/nqtronix/git-template/blob/master/LICENSE.md
-[git-readme-license]:https://github.com/nqtronix/git-template/blob/master/README.md#license
+[git-license]:LICENSE.md
+[git-readme-license]:README.md#license
 
 
 

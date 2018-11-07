@@ -454,13 +454,13 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 
 <!-- in-line references to github -->
 
+[git-profile]:https://github.com/nqtronix
 [git-download]:https://github.com/nqtronix/git-template/archive/master.zip
 [git-issues]:https://github.com/nqtronix/git-template/issues
-[git-readme]:https://github.com/nqtronix/git-template/blob/master/README.md
-[git-license]:https://github.com/nqtronix/git-template/blob/master/LICENSE.md
-[git-contribute]:https://github.com/nqtronix/git-template/blob/master/CONTRIBUTING.md
-[git-badges]:https://github.com/nqtronix/git-template/blob/master/badges.md
-[git-profile]:https://github.com/nqtronix
+[git-readme]:README.md
+[git-license]:LICENSE.md
+[git-contribute]:CONTRIBUTING.md
+[git-badges]:badges.md
 
 <!-- in-line references by tag -->
 
