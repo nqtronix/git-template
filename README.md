@@ -375,6 +375,7 @@ If you haven't done so already, please check out [Get Help](#get-help) for the f
 
 ### Related Projects
 
+ - [**fifofast**][git-repo-fifofast] - _A fast, generic fifo for MCUs._
  - [**unittrace**][git-repo-unittrace] - _A simple testing and debugging tool for MCUs inspired by MinUnit._
  
 Want yours to be listed here, too? Create a merge request or [**get in touch**](#get-help).
@@ -463,6 +464,7 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 [git-badges]:badges.md
 
 [git-repo-unittrace]:https://github.com/nqtronix/unittrace
+[git-repo-fifofast]:https://github.com/nqtronix/fifofast
 
 <!-- in-line references by tag -->
 
