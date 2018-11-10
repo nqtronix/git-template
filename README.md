@@ -46,13 +46,11 @@
 ## Usage Example
 This readme is a template _and_ a usage example of itself, so technically no separate example is needed.
 
-The screenshot below is from one of my projects, which uses this template.
+The screenshot below is from one of my projects, which uses this template. You can find that project and many more under [related projects](#related-projects).
 
-```c
-// This is a chicken and egg problem. This readme will be updated once the other readme is written & uploaded.
-```
+<a href="https://github.com/nqtronix/fifofast"><img src="https://raw.githubusercontent.com/nqtronix/git-template/master/example.png" alt="Usage Example Screenshot"></a>
 
-You can find that project and many more under [related projects](#related-projects).
+
 
 <br>
 
