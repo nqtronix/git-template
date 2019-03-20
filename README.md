@@ -375,6 +375,7 @@ If you haven't done so already, please check out [Get Help](#get-help) for the f
 
  - [**fifofast**][git-repo-fifofast] - _A fast, generic fifo for MCUs._
  - [**unittrace**][git-repo-unittrace] - _A simple testing and debugging tool for MCUs inspired by MinUnit._
+ - [**ahk-utf8-anywhere**][git-repo-ahk-utf8-anywhere] - _Turn keywords into utf8 characters anywhere you need to._
  
 Want yours to be listed here, too? Create a merge request or [**get in touch**](#get-help).
 
@@ -463,6 +464,7 @@ The MIT license was chosen to give you the freedom to use this project in any wa
 
 [git-repo-unittrace]:https://github.com/nqtronix/unittrace
 [git-repo-fifofast]:https://github.com/nqtronix/fifofast
+[git-repo-ahk-utf8-anywhere]:https://github.com/nqtronix/ahk-utf8-anywhere
 
 <!-- in-line references by tag -->
 
